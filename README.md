@@ -1,7 +1,9 @@
 # -Walmart-sales-data-analysis-
 
 #About
-This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition.
+-	Utilized SQL to translate raw sales data into actionable intelligence, enhancing operational efficiency and informing strategic decision-making for business optimization.
+-	Executed SQL queries for comprehensive exploratory data analysis on Walmart sales data, seamlessly integrating information from CSV files.
+
 
 #Purposes Of The Project
 The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
